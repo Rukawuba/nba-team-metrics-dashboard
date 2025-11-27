@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+streamlit
+pandas
+sqlalchemy
+nba_api
+plotly
+requests
+python-dotenv
